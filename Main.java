@@ -1,4 +1,4 @@
-package org.sxymi.ox;
+package git.sxymi.ox;
 
 import java.util.Random;
 import java.util.Scanner;
